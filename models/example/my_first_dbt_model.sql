@@ -25,3 +25,4 @@ from source_data
 */
 
 -- where id is not null
+--select * from raw.jaffle_shop.customers
